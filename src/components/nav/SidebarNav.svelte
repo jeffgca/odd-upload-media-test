@@ -22,8 +22,18 @@
       icon: PhotoGallery
     },
     {
+      label: 'Upload Test',
+      href: '/upload-test/',
+      icon: PhotoGallery
+    },
+    {
       label: 'Account Settings',
       href: '/settings/',
+      icon: Settings
+    },
+    {
+      label: 'DEBUG',
+      href: '/debug/',
       icon: Settings
     }
   ]
